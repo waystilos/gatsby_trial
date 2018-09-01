@@ -1,0 +1,8 @@
+.root {
+  color: tomato;
+}
+
+.root__photos {
+  width: 100%;
+  display: inline-block;
+}
