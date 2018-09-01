@@ -1,5 +1,5 @@
 ---
-path: blog/blogOne
+path: one
 date: '2018-09-01'
 title: Hello World
 ---
