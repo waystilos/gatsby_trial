@@ -1,6 +1,7 @@
 backend:
   name: github
   repo: waystilos/gatsby_trials
+  branch: master
 media_folder: static/assets
 public_folder: assets
 collections:
